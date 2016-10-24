@@ -1,2 +1,2 @@
 # hello-world
-a simple hello-world project
+GitHub, let's go!
